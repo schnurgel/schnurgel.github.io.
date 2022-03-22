@@ -1,0 +1,24 @@
+#frontImg{
+    padding-top: 0vw;
+    margin-top: 0vw;
+    height:25vw;
+    width:50vw;
+    padding:1vw;
+    border: 1vw snow solid;
+}
+h1.headerAfter{
+    padding:1vw;
+    height:5vw;
+    color: yellow;
+}
+.headerAfterTwo{
+    padding:1vw;
+    margin: 0vw;
+    height:5vw;
+}
+.ducks{
+    color: yellow;
+    padding-bottom:5vw;
+    margin: 2w;
+    height:5vw;
+}
